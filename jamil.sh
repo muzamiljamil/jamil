@@ -4,7 +4,7 @@
 
 ##   Version 	: 	2.2
 
-##   Github 	: 	https://github.com/htr-tech
+##   Github 	: 	https://github.com/jamil
 
 ##   THANKS TO :
 
