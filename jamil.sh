@@ -166,7 +166,7 @@
 
 ##
 
-##      Copyright (C) 2021  HTR-TECH (https://github.com/htr-tech)
+##      Copyright (C) 2021  Muzamil (https://github.com/jamil)
 
 ##
 
@@ -290,7 +290,7 @@ banner() {
 
 		${ORANGE}      |_|                ${RED}Version : 2.2
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Muzamil Jamil (Muzamil)${WHITE}
 
 	EOF
 
