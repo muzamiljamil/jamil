@@ -290,7 +290,7 @@ banner() {
 
 		${ORANGE}      |_|                ${RED}Version : 5.2
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Muzamil Jamil (Muzamil)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Muzamil Jamil (Muzamil Jamil)${WHITE}
 
 	EOF
 
